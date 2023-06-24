@@ -1,1 +1,6 @@
 1234
+5678888888888888888888888888888888888888888888888888888888888
+n the example above, we have used two <div> elements (<div id="section1"> and <div id="section2">) to create separate sections within the <body> of the HTML document. You can add as many <div> elements as you need to organize your content.
+
+
+Remember that each HTML document should have only one <body> element.
